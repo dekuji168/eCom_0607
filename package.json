@@ -34,7 +34,7 @@
     "embla-carousel-react": "^8.6.0",
     "i18next": "^25.1.2",
     "lodash": "^4.17.21",
-    "next": "^15.3.2",
+    "next": "15.3.8",
     "next-i18next": "^15.4.2",
     "notistack": "^3.0.2",
     "nprogress": "^0.2.0",
